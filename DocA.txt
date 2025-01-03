@@ -1,2 +1,4 @@
 Meu documento - 1 - Atualizado
-(Modificado em master)
+(Modificado em master e iss53,
+fiz uma mesclagem manual unindo
+as alterações)
